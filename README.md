@@ -1,2 +1,5 @@
 # hello-world
-Figuring out how to use damn git already
+
+Ah, meatbags.
+
+Tis I. Finally.
